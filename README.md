@@ -13,3 +13,6 @@ yarn start
 ```
 
 This boilerplate is built using [create-react-app](https://github.com/facebookincubator/create-react-app).
+
+This repo is a simple quiz app, sorting you into one of the four houses of Hogwarts.
+It is created using React.js. I am working on writing unit tests, and then integrating redux with it.
